@@ -303,7 +303,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 👤 Author
 
-**Ali** — AI/ML Engineer  
+**Ali** — AI Engineer  
 Building production-grade agentic AI systems.
 
 
